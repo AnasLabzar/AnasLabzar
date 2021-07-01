@@ -25,25 +25,24 @@ A 21Y/O Designer and Web developer🎯 from Morocco. I'm passionate about Full-S
 
 <div align="center">
   
-<img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" height="60" width="60">
-<img src="https://miro.medium.com/max/700/1*X-QFjBjxIgA2RwVvoA89nw.png" height="60" width="100">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/next.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src"https://media-thumbs.golden.com/MNKXzVt8qdEw5O_TglRnX2x0L6Q=/200x200/smart/golden-storage-production.s3.amazonaws.com%2Ftopic_images%2F60e0e58f88e648b8897fff916eb5cee0.png" height="60" width="60">
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+<img src="" height="60" width="60">
 
 <br>
   
-<img src="https://cointral.com/wp-content/uploads/2019/11/solidity-nedir.png" height="60" width="100">
+
 <img src="https://www.marcus-povey.co.uk/wp-content/866-8665831_the-postman-logo-is-available-in-png-svg.png.jpeg" height="60" width="80">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+<img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/1200px-Logo.min.svg.png" height="60" width="60">
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+
 
 
 </div>
