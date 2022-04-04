@@ -13,8 +13,8 @@ A 21Y/O Designer and Web developer🎯 from Morocco. I'm passionate about Full-S
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning VueJS, Spring boot and Javascript
-- 👯 I’m looking to collaborate on VueJS projects and Basic Web Dev stuff
+- 🌱 I’m currently learning ReactJS, Spring boot and Javascript
+- 👯 I’m looking to collaborate on ReactJS projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/anaslabzar) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
