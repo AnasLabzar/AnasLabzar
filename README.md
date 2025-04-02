@@ -30,7 +30,7 @@ A 23Y/O Designer and Web developer🎯 from Morocco. I'm passionate about Full-S
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/next.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="" height="60" width="60">
+<img src="https://images.icon-icons.com/2415/PNG/512/typescript_original_logo_icon_146317.png" height="60" width="60">
 
 <br>
   
